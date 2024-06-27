@@ -2,7 +2,7 @@
 
 **Empower Your Web3 Projects with Eco Forge Chronicles!**
 
-Welcome to the official repository for Eco Forge Chronicles, an open-source marketplace designed to revolutionize Web3 engagement through innovative trade-to-earn mechanisms and redeemable NFTs.
+Welcome to the official repository for Eco Forge Chronicles, an open-source marketplace designed to revolutionize Web3 engagement through innovative trade-to-earn mechanisms Eco-Bound Tokens and redeemable NFTs.
 
 ## Project Overview
 
